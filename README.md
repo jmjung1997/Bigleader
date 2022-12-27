@@ -1,6 +1,17 @@
 # Bigreader 일자리 미스매칭 프로젝트
-
 # URL: https://kodata.aims.tk/
+## 개발목표
+**여러 통계자료와 KODATA에서 제공한 데이터를 사용하여 딥러닝 기술을 접목시켜 고용위기 지역을 예측하고 
+빅데이터를 기반으로 일자리 미스매칭 현황을 시각화하여 일자리 정책 관계자들이 선제적으로 대응할 수 있도록 돕고자 함.**
+
+## 개발기간
+**2022년 7월 18일 ~ 2022년 8월 31일**
+
+## 개발툴
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Java&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000.svg?&style=for-the-badge&logo=Java&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627.svg?&style=for-the-badge&logo=Java&logoColor=white)
+
 ## 메인화면
 ![image](https://user-images.githubusercontent.com/38148578/209616018-d5554dda-fde8-4d2e-a96d-e9fd30d9ea86.png)
 
