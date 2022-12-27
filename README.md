@@ -8,9 +8,10 @@
 **2022년 7월 18일 ~ 2022년 8월 31일**
 
 ## 개발툴
-![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Java&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000.svg?&style=for-the-badge&logo=Java&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627.svg?&style=for-the-badge&logo=Java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white)
+![Php](https://img.shields.io/badge/Php-777BB4.svg?&style=for-the-badge&logo=Php&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627.svg?&style=for-the-badge&logo=Tableau&logoColor=white)
 
 ## 메인화면
 ![image](https://user-images.githubusercontent.com/38148578/209616018-d5554dda-fde8-4d2e-a96d-e9fd30d9ea86.png)
